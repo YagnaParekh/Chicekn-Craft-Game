@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>180</x>
+      <y>110</y>
+      <w>600</w>
+      <h>310</h>
+    </coordinates>
+    <panel_attributes>Chicken Class
+--
+- chicken_name : String
+- chicken_Hearts : int
+- mood : String
+- feed_Seed : double
+- status : String
+- hit_chicken : String
+- play : String
+- lay_eggs : double
+--
++ setName() : String
++ setChicken_Hearts : int
++ setMood : String
++ setFeed_Seed : double
++ setStatus : String
++ setLay_eggs : double
++ setHit_chicken : String
++ setPlay : String
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
